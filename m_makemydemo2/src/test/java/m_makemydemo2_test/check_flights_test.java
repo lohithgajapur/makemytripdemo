@@ -12,5 +12,6 @@ public class check_flights_test {
 		Book_MakeMyTrip b2=new Book_MakeMyTrip();
 		b2.retrive_flights_info();
 		//lohith added branch1 and trying to merge
+		//brach1 merge 2 try
 	}
 }
